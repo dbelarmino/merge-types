@@ -1,1 +1,1 @@
-# merge-types
+# merge-types = ["README.md"]

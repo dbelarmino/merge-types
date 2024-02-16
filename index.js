@@ -1,0 +1,1 @@
+console.log("release-1.0.0");

@@ -1,1 +1,1 @@
-# merge-types
+# merge-type: 2
